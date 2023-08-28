@@ -3,11 +3,11 @@
 
 My VS Code extensions and settings 
 
-## Theme
+### Theme
 [One Monokai.](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 
-## Extensions
-To automatically close HTML tags [Auto Close Tag.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+### Extensions
+To automatically close HTML tags [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 To automatically update matching HTML tags [Auto Rename Tag.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
@@ -25,17 +25,16 @@ Icons for Visual Studio Code [Icons.](https://marketplace.visualstudio.com/items
 
 Icons (with classic mac folder icon) [vscode-icons-mac.](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)
 
-## Settings
-• Auto Save set to onFocusChange, to automatically save files.
+### Settings
+• `Auto Save` set to `onFocusChange`, to automatically save files
 
-• Default Formatter set to Prettier - Code formatter (esbnp.prettier-vscode), to enable the Prettier extension to format our code.
+• `Default Formatter` set to `Prettier - Code formatter (esbnp.prettier-vscode)`, to enable the Prettier extension to format our code
 
-• Format on Save set to true, to have Prettier format our code each time we save it.
+• `Format on Save` set to `true`, to have Prettier format our code each time we save it
 
-• Word Wrap set to on, to avoid vertical scrollbars for long content.
+• `Word Wrap` set to `on`, to avoid vertical scrollbars for long content
 
-• Tab Size set to 2, for better code readability.
-
+• `Tab Size` set to `2`, for better code readability
 
 
 
